@@ -1,1 +1,1 @@
-Automation done by user 1.
+Automation is done by user 1. Now new code is getting written in the same file by user 2, which will eventually be merged from the 'feat2' branch to the 'feat1' branch.
