@@ -1,0 +1,1 @@
+This file is created in the feat2 branch that is planned to be merged into the 'feat1' branch.
