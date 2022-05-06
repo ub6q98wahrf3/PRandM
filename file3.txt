@@ -1,0 +1,1 @@
+This is the file that is created from local by understanding the concept of visualizing all branches after cloning a repository.
