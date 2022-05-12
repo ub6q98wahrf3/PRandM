@@ -1,1 +1,4 @@
 This is the file that is created from local by understanding the concept of visualizing all branches after cloning a repository.
+
+Now, new code is added into 'file3.txt' and getting pushed in the same branch ie. 'feat2' branch.
+Next, we will see if this content should not be removed on 'feat2' branch on taking the latest code of 'feat1'branch.
